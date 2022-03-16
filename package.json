@@ -1,0 +1,24 @@
+{
+  "name": "practica-api-basico-ralfxdev",
+  "version": "1.0.0",
+  "description": "[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7343213&assignment_repo_type=AssignmentRepo) # practica-api-basico practica api-rest-básico",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ralfxdev: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@github.com/Pasantia-22-1/practica-api-basico-ralfxdev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pasantia-22-1/practica-api-basico-ralfxdev/issues"
+  },
+  "homepage": "https://github.com/Pasantia-22-1/practica-api-basico-ralfxdev#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3"
+  }
+}
